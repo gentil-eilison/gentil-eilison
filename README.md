@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I'm a graduate in System Analysis and Development
+- 🎓 I'm currently improving my skills in Web Development
+- 📫 How to reach me: fernandes.gentilalysonjac@gmail.com
+
+*** 
+### 💻 My Stack
 <!--
 **gentil-eilison/gentil-eilison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
