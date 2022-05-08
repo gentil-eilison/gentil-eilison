@@ -6,8 +6,10 @@
 
 *** 
 ### 🌵About My Profile 
+<section style="display: flex; justfiy-content: space-around;">
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentil-eilison&hide=html&layout=compact&theme=dark" />
-<img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=gentil-eilison&theme=dark" />
+<img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=gentil-eilison11&theme=dark" />
+</section>
 
 <!--
 **gentil-eilison/gentil-eilison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
