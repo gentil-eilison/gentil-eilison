@@ -5,7 +5,9 @@
 - 📫 How to reach me: fernandes.gentilalysonjac@gmail.com
 
 *** 
-### 💻 My Stack
+### 🌵About My Profile 
+<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentil-eilison&hide=html&layout=compact&theme=dark" />
+
 <!--
 **gentil-eilison/gentil-eilison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
