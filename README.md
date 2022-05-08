@@ -6,7 +6,7 @@
 
 *** 
 ### 🌵About My Profile 
-<section style="display: flex; justfiy-content: space-around; width: 100%">
+<section style="display: flex; justfiy-content: space-between; width: 100%">
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentil-eilison&hide=html&layout=compact&theme=dark" />
 <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=gentil-eilison&theme=dark" />
 </section>
