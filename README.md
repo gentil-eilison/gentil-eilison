@@ -11,6 +11,10 @@
 <img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=gentil-eilison&theme=dark" />
 </section>
 
+### 💻 My Stack
+<img height="32" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Javascript"/>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript"/>
+
 <!--
 **gentil-eilison/gentil-eilison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
